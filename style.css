@@ -1,0 +1,146 @@
+        body {
+            background-color: #5ae26a;
+        }
+
+        .menu {
+            font-family: 'Roboto';
+            display: inline-block;
+            bottom: 20px;
+            position: relative;
+            margin: 10px;
+        }
+
+        div.menu {
+          border-bottom: solid 5px green;
+          width: 99%;
+          margin-top: 15px;
+        }
+
+        .menu:hover {
+            color: #00630e;
+        }
+
+        .turtle:hover {
+            filter: drop-shadow(0px 0px 20px #b5ffa8);
+
+        }
+
+        .menu-bg {
+            background-color: green;
+            position: absolute;
+        }
+
+        .selected {
+            color: green;
+            text-decoration: underline;
+            text-decoration-color: white;
+        }
+
+        .heading2 {
+          margin-top: 100px;
+          font-family: nunito;
+          text-align: center;
+        }
+
+        .heading3 {
+          font-family: Roboto;
+          text-align: center;
+          margin-top: 50px;
+
+        }
+
+        .news {
+            font-family: nunito;
+            margin-left: 25%;
+            margin-right: 25%;
+        }
+
+        .button {
+
+            font-family: nunito;
+            display: inline-block;
+            margin-left: 45%;
+            margin-right: 45%;
+            width: 10%;
+            background-color: #03b553;
+            text-align: center;
+            border-radius: 12px;
+            padding: 10px;
+        }
+
+        .button:hover
+        {
+            background-color: #048e42;
+
+        }
+
+        p.news {
+            text-align: center;
+        }
+
+        h2.news {
+            text-align: center;
+        }
+
+        img.news {
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        }
+
+img.pics {
+
+    margin: 3%;
+}
+
+.pics {
+    text-align: center;
+
+
+}
+
+
+.trailer {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.button4
+{
+
+    border-radius: 12px;
+     background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 3px 9px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 0px 5px;
+  margin-top: 0px;
+
+}
+
+.button4:hover {
+background-color: #328935;
+color: white;
+
+}
+        a {
+            text-decoration: none;
+            color: black;
+        }
+
+        h1 {
+            text-align: center;
+            font-family: muli;
+        }
+
+        p {
+            font-family: nunito;
+            text-align: center;
+        }
